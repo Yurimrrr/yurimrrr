@@ -2,8 +2,8 @@ Olá, bem vindo ao meu perfil! meu nome é Yuri!
 <br>
 Sou desenvolvedor fullstack, criando aplicações desde 2020 e academico de ciências da computação!
 
-- 🔭 Estou trabalhando Full Stack atualmente
-- 🌱 Estou terminando meu aprendizado de Node.js
+- 🔭 Estou trabalhando Web FullStack atualmente.
+- 🌱 Especializando em Flutter, e estudando node.js
 
 <div align="center">
   <a href="https://github.com/yurimrrr">
