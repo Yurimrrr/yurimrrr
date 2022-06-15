@@ -1,7 +1,7 @@
 <h2 align="left">Hello, welcome to my profile!</h2>
 
 ###
-<p align="left">my name is Yuri and passionate about technology!</p>
+<p align="left">My name is Yuri and passionate about technology!</p>
 
 ###
 <h2 align="left">About me</h2>
