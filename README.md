@@ -1,38 +1,58 @@
-Olá, bem vindo ao meu perfil! meu nome é Yuri! 
-<br>
-Sou desenvolvedor fullstack, criando aplicações desde 2020 e academico de ciências da computação!
+<h2 align="left">Hello, welcome to my profile!</h2>
 
-- 🔭 Estou trabalhando Web FullStack atualmente.
-- 🌱 Especializando em Flutter, e estudando node.js
+###
+<p align="left">my name is Yuri and passionate about technology!</p>
 
+###
+<h2 align="left">About me</h2>
+
+###
+<p align="left">I'm a fullstack developer, creating applications since 2020 and a computer science academic!</p>
+
+###
+<p align="left">🔭 I'm currently working on Web FullStack.<br>🌱 Studying english and specializing in Node.js</p>
+
+###
 <div align="center">
-  <a href="https://github.com/yurimrrr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurimrrr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimrrr&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=yurimrrr" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&username=yurimrrr" height="150" alt="languages graph"  />
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Yuri-Flutter" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
-  <img align="center" alt="Yuri-Node" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Yuri-Vue" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Yuri-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yuri-Ts" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <!--
-  <img align="center" alt="Yuri-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yuri-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yuri-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Yuri-Php" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> -->
-  <img align="center" alt="Yuri-DotNet" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Yuri-Sql" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+###
+<img href="https://github.com/yurimrrr/yurimrrr/blob/output/snake.svg" alt="Snake animation" />
+
+###
+<img align="right" height="200" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"  />
+
+###
+<h2 align="left">I code with</h2>
+
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
 </div>
-  
-  ##
- 
-<div>
-  <a href="https://instagram.com/yurimrrr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yurimoreira557@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yuri-moreira-3b2aaa1b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<!--   ![Snake animation](https://github.com/yurimrrr/yurimrrr/blob/output/github-contribution-grid-snake.svg) -->
- 
+
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/yurimrrr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/246331538621333504" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/yurimrrr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
+  </a>
 </div>
+
+###
+Profile Readme Generator
