@@ -19,9 +19,6 @@
 </div>
 
 ###
-<img href="https://github.com/yurimrrr/yurimrrr/blob/output/snake.svg" alt="Snake animation" />
-
-###
 <img align="right" height="200" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"  />
 
 ###
